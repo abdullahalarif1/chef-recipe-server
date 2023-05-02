@@ -13,16 +13,28 @@ app.get('/', (req, res) => {
     res.send('server is running')
 })
 
-app.get('/chef', (req, res)=> {
+app.get('/chef', (req, res) => {
     res.send(chef)
 })
-app.get('/trending', (req, res)=> {
+
+app.get('/chefs/:id', (req, res) => {
+    const id = parseInt(req.params.id)
+    console.log('i need data for id', id);
+    const chefs = chef.chefs.find(chef => chef.chefId === id) || {};
+    res.send(chefs)
+})
+
+app.get('/trending', (req, res) => {
     res.send(trending)
 })
 
-app.get('/team', (req, res)=> {
+app.get('/team', (req, res) => {
     res.send(team)
 })
+
+
+
+
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)

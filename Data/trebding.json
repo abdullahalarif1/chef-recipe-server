@@ -1,0 +1,28 @@
+{
+  "trending": [
+    {
+      "name": "Stinky Tofu",
+      "img": "https://media.istockphoto.com/id/545286388/photo/chinese-food-blank-background.jpg?s=612x612&w=0&k=20&c=pqOIy07YKO5PlU5VxjscwTGRrrZ8PluKMUjSOz-II60="
+    },
+    {
+      "name": "Congee",
+      "img": "https://media.istockphoto.com/id/545455948/photo/chinese-food-blank-background.jpg?s=612x612&w=0&k=20&c=NZnufa0clsDsdLiQ0TRIq5bxQhtIWtQUZutnm1eLPJA="
+    },
+    {
+      "name": "Chinese Noodles",
+      "img": "https://c.ndtvimg.com/2022-09/1jsu8038_noodles_625x300_28_September_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=886"
+    },
+    {
+      "name": "Kung Pao Chicken",
+      "img": "https://media.istockphoto.com/id/483120255/photo/asian-oranage-chicken-with-green-onions.jpg?s=612x612&w=0&k=20&c=0T_g_J5OSnmCei1Slgr1128wzAhzceRvLjd94R3gkgs="
+    },
+    {
+      "name": "Chinese Hamburger ",
+      "img": "https://media.gettyimages.com/id/1301151665/photo/table-top-view-of-fried-food.jpg?s=612x612&w=gi&k=20&c=61dOrcecJw6FvtEHz37t9B_tRrtPucZd_pcKpAFxffo="
+    },
+    {
+      "name": "Chow Mein",
+      "img": "https://media.gettyimages.com/id/472188222/photo/chinese-take-out.jpg?s=612x612&w=gi&k=20&c=0ymoNPrpN9knRCuBRklSPWyA5TeytHyLsSY0vj65oh4="
+    }
+  ]
+}

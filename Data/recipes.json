@@ -1,0 +1,34 @@
+{
+  "team": [
+    {
+      "name": "John Smith",
+      "img": "https://media.gettyimages.com/id/1139257728/photo/portrait-of-real-chinese-mature-man-with-excited-expression-looking-at-camera.jpg?s=612x612&w=gi&k=20&c=GTqLEYeaNHR8lK5Cy20Mt-VpuSUKoriv1v0BRezLcWs=",
+      "position": "Founder & CEO"
+    },
+    {
+      "name": "Sarah Johnson",
+      "img": "https://media.gettyimages.com/id/1146926600/photo/portrait-of-real-chinese-adult-man-with-happy-expression.jpg?s=612x612&w=gi&k=20&c=fklQvlW5bAomZBbQPiM7fmtWHS3SyM6fRylat8GjMHU=",
+      "position": "Head Chef"
+    },
+    {
+      "name": "Michael Williams",
+      "img": "https://visafoto.com/img/docs/cn_visa_online.jpg",
+      "position": "Food Stylist"
+    },
+    {
+      "name": "Emily Davis",
+      "img": "https://visafoto.com/img/chinese-e-passport-photo-example.jpg",
+      "position": "Recipe Developer"
+    },
+    {
+      "name": "David Lee",
+      "img": "https://media.gettyimages.com/id/1138171277/photo/confident-young-man-smiling-on-white-background.jpg?s=612x612&w=gi&k=20&c=EWCE_M0gFaAxfAofLvVjx5dSMb47Cu5Dlnv8fQjUFuY=",
+      "position": "Photographer"
+    },
+    {
+      "name": "Jennifer Rodriguez",
+      "img": "https://media.gettyimages.com/id/1143002044/photo/portrait-of-real-chinese-man-with-serious-expression.jpg?s=612x612&w=gi&k=20&c=U-ksZna_6ovIl8aBzCOa-fXjDlSO9_9q9qymNik20Is=",
+      "position": "Content Writer"
+    }
+  ]
+}

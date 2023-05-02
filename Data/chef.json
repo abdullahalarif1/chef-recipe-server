@@ -1,0 +1,52 @@
+{
+  "chefs": [
+    {
+      "chefId": 1,
+      "chefName": "Chef Chen Wei",
+      "yearsOfExperience": 15,
+      "numOfRecipes": 100,
+      "likes": 2500,
+      "chefPicture": "https://media.istockphoto.com/id/1175212404/photo/asian-chef-with-dish-at-the-restaurant.jpg?s=612x612&w=0&k=20&c=i1qhN28OljnAvkgvw3unYg0pJyrOfJsif-zF5IB3tBo="
+    },
+    {
+      "chefId": 2,
+      "chefName": "Chef Li Na",
+      "yearsOfExperience": 12,
+      "numOfRecipes": 80,
+      "likes": 1800,
+      "chefPicture": "https://macaulifestyle.com/wp-content/uploads/2018/10/Chef-Joe-3-e1540890319624-1024x642.jpg"
+    },
+    {
+      "chefId": 3,
+      "chefName": "Chef Zhang Ming",
+      "yearsOfExperience": 10,
+      "numOfRecipes": 60,
+      "likes": 1300,
+      "chefPicture": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/2/14/original/ITC_Maratha_Pan_Asia_1.jpg"
+    },
+    {
+      "chefId": 4,
+      "chefName": "Chef Wang Jian",
+      "yearsOfExperience": 8,
+      "numOfRecipes": 50,
+      "likes": 900,
+      "chefPicture": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387"
+    },
+    {
+      "chefId": 5,
+      "chefName": "Chef Liu Mei",
+      "yearsOfExperience": 6,
+      "numOfRecipes": 40,
+      "likes": 700,
+      "chefPicture":"https://media-cldnry.s-nbcnews.com/image/upload/newscms/2017_44/2198591/171023-chen-lien-tan-hwa-yuan-njs-950a.jpg"
+    },
+    {
+      "chefId": 6,
+      "chefName": "Chef Yang Feng",
+      "yearsOfExperience": 5,
+      "numOfRecipes": 30,
+      "likes": 500,
+      "chefPicture": "https://media.istockphoto.com/id/1286886192/photo/asian-chinese-dessert-chef-cutting-sweet-food-shortbread-in-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=izMbqm5AcwXFF0_89wqYNM2JwrAolTFS8mTBhqu9G-g="
+    }
+  ]
+}

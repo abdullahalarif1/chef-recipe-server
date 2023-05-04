@@ -49,6 +49,11 @@
       "numOfRecipes": 50,
       "likes": 900,
       "bio": "Chef Wang Jian is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
+      "recipeName": "Chocolate Cake",
+      "ingredients": "Flour, Sugar, Cocoa powder, Baking powder, Eggs, Butter, Milk, Vanilla extract",
+      "cookingMethod": "1. Preheat the oven to 350. \n2. Mix all dry ingredients in a bowl. \n3. In a separate bowl, beat eggs and butter.",
+      "rating": 4.8,
+      "favorite": true,
       "chefPicture": "https://cdn.shopify.com/s/files/1/0555/4231/7246/files/about-1_645X.jpg?v=1628774387"
     },
     {
@@ -58,6 +63,11 @@
       "numOfRecipes": 40,
       "likes": 700,
       "bio": "Chef Liu Mei is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
+      "recipeName": "Spaghetti Bolognese",
+      "ingredients": "Ground beef, Onion, Garlic, Tomato sauce, Spaghetti pasta, Salt, Pepper",
+      "cookingMethod": "1. Heat olive oil in a large skillet over medium heat. \n2. Add onions and garlic, sauté until translucent.",
+      "rating": 4.2,
+      "favorite": true,
       "chefPicture": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2017_44/2198591/171023-chen-lien-tan-hwa-yuan-njs-950a.jpg"
     },
     {
@@ -66,6 +76,11 @@
       "yearsOfExperience": 5,
       "numOfRecipes": 30,
       "likes": 500,
+      "recipeName": "Chicken Parm",
+      "ingredients": "Chicken, Parmesan cheese, Marinara sauce, Mozzarella cheese, Bread crumbs, Olive oil",
+      "cookingMethod": "1. Preheat the oven to 375. \n2. Coat the chicken in bread crumbs and fry until golden brown.",
+      "rating": 4.5,
+      "favorite": true,
       "bio": "Chef Yang Feng is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics.",
       "chefPicture": "https://media.istockphoto.com/id/1286886192/photo/asian-chinese-dessert-chef-cutting-sweet-food-shortbread-in-kitchen.jpg?b=1&s=170667a&w=0&k=20&c=izMbqm5AcwXFF0_89wqYNM2JwrAolTFS8mTBhqu9G-g="
     }
